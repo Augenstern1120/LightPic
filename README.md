@@ -8,6 +8,12 @@ LightPic 专注于快速批量缩放和压缩图片。无需复杂的编辑流�
 
 LightPic 轻量、简单、完全离线，适合发送图片、上传网站或节省存储空间。
 
+## 下载
+
+### [⬇️ 下载最新版 LightPic](https://github.com/Augenstern1120/LightPic/releases/latest)
+
+安装和首次打开方法请查看 Release 页面中的说明。
+
 ## 主要功能
 
 - 批量导入 JPEG、HEIC、PNG 和 TIFF 图片
@@ -24,12 +30,6 @@ LightPic 轻量、简单、完全离线，适合发送图片、上传网站或�
 
 - macOS 13.0 或更高版本
 - Intel 或 Apple Silicon Mac
-
-## 下载
-
-### [⬇️ 下载最新版 LightPic](https://github.com/Augenstern1120/LightPic/releases/latest)
-
-安装和首次打开方法请查看 Release 页面中的说明。
 
 ## 界面预览
 
