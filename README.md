@@ -33,15 +33,9 @@ LightPic 轻量、简单、完全离线，适合发送图片、上传网站或�
 
 ## 界面预览
 
-<p align="center">
   <img
     src="https://github.com/user-attachments/assets/94f87231-ff1b-4340-ad07-8558cf5d49d8"
     alt="LightPic 浅色界面"
     width="48%"
   />
-  <img
-    src="https://github.com/user-attachments/assets/a3a30ffd-6a3a-4539-9b9f-5ae7752a7594"
-    alt="LightPic 深色界面"
-    width="48%"
-  />
-</p>
+
