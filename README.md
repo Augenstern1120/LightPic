@@ -1,13 +1,19 @@
 <h1 align="center">LightPic</h1>
 
 <p align="center">
-  A lightweight offline batch image resizer for macOS.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Augenstern1120/LightPic/releases/latest">下载最新版</a>
-  ·
-  <a href="https://github.com/Augenstern1120/LightPic/releases/latest">Latest Release</a>
+  <a href="https://github.com/Augenstern1120/LightPic/releases/latest">
+    <img
+      src="https://img.shields.io/github/v/release/Augenstern1120/LightPic?display_name=tag&amp;label=Latest%20Version&amp;color=blue"
+      alt="Latest Version"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Augenstern1120/LightPic/releases/latest/download/LightPic.zip">
+    <img
+      src="https://img.shields.io/badge/Download-LightPic-brightgreen"
+      alt="Download LightPic"
+    />
+  </a>
 </p>
 
 <p align="center">
