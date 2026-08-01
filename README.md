@@ -6,7 +6,9 @@
       src="https://img.shields.io/github/v/release/Augenstern1120/LightPic?display_name=tag&amp;label=Latest%20Version&amp;color=blue"
       alt="Latest Version"
     />
-  </a> <a href="https://github.com/Augenstern1120/LightPic/releases/latest/download/LightPic.zip">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Augenstern1120/LightPic/releases/latest/download/LightPic.zip">
     <img
       src="https://img.shields.io/badge/Download-LightPic-brightgreen"
       alt="Download LightPic"
