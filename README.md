@@ -1,6 +1,4 @@
-建议直接用下面这版替换 README：修正了 TIFF、编辑、实时大小、隐私表述和重复链接。
 
-```md
 <h1 align="center">LightPic</h1>
 
 <p align="center">
@@ -165,4 +163,4 @@ LightPic only connects to GitHub when you manually choose **Check for Updates**.
 2. Unzip it and drag `LightPic.app` into Applications
 3. On first launch, right-click LightPic and choose **Open**
 4. If macOS still blocks it, go to **System Settings → Privacy & Security** and choose **Open Anyway**
-```
+
