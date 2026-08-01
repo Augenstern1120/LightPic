@@ -7,7 +7,6 @@
       alt="Latest Version"
     />
   </a>
-  &nbsp;
   <a href="https://github.com/Augenstern1120/LightPic/releases/latest/download/LightPic.zip">
     <img
       src="https://img.shields.io/badge/Download-LightPic-brightgreen"
