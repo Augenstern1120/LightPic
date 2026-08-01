@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Augenstern1120/LightPic/releases/latest">下载最新版</a>
+  ·
+  <a href="https://github.com/Augenstern1120/LightPic/releases/latest">Latest Release</a>
+</p>
+
+<p align="center">
   <img
     src="https://github.com/user-attachments/assets/06bd64e6-03e2-4cdc-8ba1-6219464b8793"
     alt="LightPic 主界面"
