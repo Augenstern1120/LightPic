@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/f67fe8d1-550b-4e3c-a5fc-027281fc8928"
+    src="https://github.com/user-attachments/assets/06bd64e6-03e2-4cdc-8ba1-6219464b8793"
     alt="LightPic 主界面"
     width="72%"
   />
