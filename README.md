@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Augenstern1120/LightPic/releases/latest">下载最新版</a>
+  <a href="https://github.com/Augenstern1120/LightPic/releases/latest">前往最新版</a>
   ·
   <a href="https://github.com/Augenstern1120/LightPic/releases/latest">Latest Release</a>
 </p>
