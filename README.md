@@ -1,6 +1,3 @@
-下面是可直接保存为 `README.md` 的完整中英文版本：
-
-````markdown
 <h1 align="center">LightPic</h1>
 
 <p align="center">
@@ -192,4 +189,4 @@ xattr -dr com.apple.quarantine /Applications/LightPic.app
 
 > Download `LightPic.zip` from the **Assets** section to use the app.  
 > The `Source code` archives are intended only for viewing or modifying the source code and are not required for normal use.
-````
+
