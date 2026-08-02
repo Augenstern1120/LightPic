@@ -95,6 +95,19 @@ LightPic 仅在你手动点击“检查更新”时连接 GitHub 获取最新版
 3. 首次打开时，右键点击 LightPic，选择“打开”
 4. 如仍被阻止，请前往“系统设置 → 隐私与安全性”，点击“仍要打开”
 
+### 安装方法
+
+**1. 在下方 Assets 中下载 `LightPic.zip`**
+2. 解压后，将 `LightPic.app` 拖入“应用程序”文件夹
+3. 第一次启动时，右键点击 LightPic，然后选择“打开”
+4. 如果仍被阻止，请进入“系统设置 → 隐私与安全性”，点击“仍要打开”
+5. 如果仍提示 App 已损坏，请确认文件来自本页面的 GitHub Release，然后在终端执行：
+
+```bash
+xattr -dr com.apple.quarantine /Applications/LightPic.app
+```
+> 下载使用请点击下方 **Assets** 中的 `LightPic.zip`；`Source code` 仅供查看或修改源码，无需下载。
+
 ---
 
 ## English
